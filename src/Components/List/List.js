@@ -1,8 +1,6 @@
 import React from 'react';
 
 const List = props => {
-    
-    const {item} = props;
 
     return (
         <div>

@@ -65,7 +65,7 @@ class Game extends Component {
                 message: text,
             });
         }
-        if (this.state.number.trim() != '') {
+        if (this.state.number.trim() !== '') {
             this.setState({
                 task: '',
                 items: [
