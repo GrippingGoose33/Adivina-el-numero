@@ -1,0 +1,8 @@
+.Game{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+    color: rgb(2, 0, 0);
+    background-color: chocolate;
+}
